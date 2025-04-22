@@ -1,5 +1,5 @@
-## NAME:
-## REGISTER NO:
+## NAME:M YUGABHARATHI M
+## REGISTER NO:212224230314
 ## DATE:
 ## EX NO: 02
 Implementation of Exact Inference Method of Bayesian Network
